@@ -1,0 +1,4 @@
+Mais cursos: https://www.w3schools.com
+
+Recursos visuais para JQuery:
+https://jqueryui.com
